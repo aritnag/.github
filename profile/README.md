@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/AritraNag4" target="blank"><img src="https://img.shields.io/twitter/follow/aritranag4?logo=twitter&style=for-the-badge" alt="aritranag4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AritraNag4" target="blank">Twitter</a> </p>
 
 
 - 👨‍💻 All about me is at [My Website](https://aritranag20.github.io/)
