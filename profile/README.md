@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Aritra Nag</h1>
-<h3 align="center">git commit -m "Hello, I'm a Senior Cloud Architect at Nordcloud"</h3>
+<h3 align="center">git commit -m "Hello, I'm a Senior Cloud Consultant"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
