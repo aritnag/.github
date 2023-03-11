@@ -36,7 +36,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aritrang4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrang4" height="30" width="40" /></a>
+<a href="https://twitter.com/aritranag4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritrang4" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aritra-nag-1571a278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritra-nag" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aritranag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritranag" height="30" width="40" /></a>
 <a href="https://medium.com/@aritra.nag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aritra.nag" height="30" width="40" /></a>
