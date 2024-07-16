@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/AritraNag4" target="blank">Twitter</a> </p>
 
 
-- 👨‍💻 All about me is at [My Website](https://aritranag20.github.io/)
+- 👨‍💻 All about me is at [My Website](https://aritnag.github.io/portfolio)
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@aritra.nag)
 
